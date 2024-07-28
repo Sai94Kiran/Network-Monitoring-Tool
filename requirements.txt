@@ -1,0 +1,4 @@
+scapy
+psutil
+matplotlib
+pip (python installer for python)is the standard package manager for python which allows you to install all packages that are not part of python standard library.
