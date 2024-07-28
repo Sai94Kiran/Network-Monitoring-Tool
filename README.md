@@ -21,5 +21,7 @@ This tool captures and analyzes network packets, monitors CPU and memory usage, 
 
 ## Usage
 -Run the script with administrator permissions (required for packet capturing):- python network_monitor.py
+
 -Run the script for 60 seconds and then you will visualised info regarding memory and cpu usage accordingly with the time and anamoly detection in yout terminal.
+
 The script will start capturing network packets and monitoring system usage. It will detect anomalies and visualize the data after the monitoring period.
