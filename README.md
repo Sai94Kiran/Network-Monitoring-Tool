@@ -13,7 +13,7 @@ This tool captures and analyzes network packets, monitors CPU and memory usage, 
 
 ## Prerequisites
 
-- Python 3.x
+- Python
 - [Npcap](https://nmap.org/npcap/) installed for packet capturing on Windows.
 
 ## Requirements 
